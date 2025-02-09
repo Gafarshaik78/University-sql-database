@@ -1,5 +1,3 @@
-# University-sql-database
-
 # University Database Management System
 
 ## Project Overview
